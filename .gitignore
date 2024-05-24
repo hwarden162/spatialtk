@@ -49,3 +49,11 @@ __pycache__
 
 docs/build
 site/
+
+# conda env
+
+env/
+
+# Dev space
+
+sandbox/

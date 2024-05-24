@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**spatialtk** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**spatialtk** is available [on PyPI](https://pypi.org/project/spatialtk/). Just run
 
 ```bash
-pip install my-package
+pip install spatialtk
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **spatialtk** from source, first clone [the repository](https://github.com/hwarden162/spatialtk):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/hwarden162/spatialtk.git
+cd spatialtk
 ```
 
 Then run
